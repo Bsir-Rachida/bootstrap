@@ -1,0 +1,16 @@
+
+.box{
+    aspect-ratio: 1/1;
+    width: 100%;
+   
+}
+.black{
+    background-color: black;
+
+}
+.orange{
+    background-color: rgb(247, 104, 9);
+}
+.yellow{
+    background-color: yellow;
+}
